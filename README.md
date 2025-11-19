@@ -1,7 +1,7 @@
 # OpenMath
 OpenMath is a open source educational initiative for Mathematics enthusiasts to learn higher Mathematics. In the long run, this project aims to range from single variable calculus to the frontiers of mathematical research.
 # Initiative 
-Let me introduce myself. The idea of this project roots from my very young age, which I have developed a great interest in Mathematics but I have a really hard time finding resources to learn beyond the scope. Especially for a undergraduate levels, they are not as well documented and organised as high school maths. Moreover, most curriculums available starts with pattern recognision, instead of logic-based real mathematics. <br>
+Let me introduce myself. The idea of this project roots from my very young age, which I have developed a great interest in Mathematics but I have a really hard time finding resources to learn beyond the scope. Especially for a undergraduate levels, they are not as well documented and organised as high school maths. Moreover, most curriculums available starts with pattern recognision, instead of logic and proof-based real mathematics. <br>
 This is somehow discouraging for young minds which may not have the full experience on how to find resources for studying. So, why don't make it easier? <br>
 When I started this project, I am a 14 year old undergraduate Year 1 student. I have a more thorough understanding of what is really "higher mathematics" I have often been interested to and I would like to encourage more interested people to learn here.
 # The Curriculum
