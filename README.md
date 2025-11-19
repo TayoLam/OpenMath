@@ -12,4 +12,5 @@ This is a good follow-up course to MATH001PB to study if you like the "style" of
 ## MATH101PB: Differential Equations (Proof-Based)
 ## MATH102PB: Algebra (Proof-Based)
 <hr>(This curriculum will expand as I make more materials. Please stay tuned.)
-<hr> **Disclaimer**: This "OpenMath" project is not affiliated with the OpenMath standard (openmath.org) for representing mathematical objects. This is an independent educational initiative.
+<hr>
+<strong>Important Disclaimer:</strong> This "OpenMath" project is not affiliated with the OpenMath standard (openmath.org) for representing mathematical objects. This is an independent educational initiative.
